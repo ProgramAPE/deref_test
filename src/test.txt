@@ -1,0 +1,3 @@
+a = Name1 {
+	name: "me".into()
+}
